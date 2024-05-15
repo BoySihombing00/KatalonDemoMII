@@ -4,9 +4,9 @@
    <name>DayOne</name>
    <tag></tag>
    <UUID>bf5827db-2ee1-4c39-beaf-af89dde5493a</UUID>
-   <freeLicense>true</freeLicense>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>9.4.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <projectFileLocation>D:\Katalon\Training MII\DayOne\DayOne\DayOne.prj</projectFileLocation>
