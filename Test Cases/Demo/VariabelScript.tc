@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VariabelScript</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e00e0ee1-7f7c-4cae-a171-91dfbc53a5eb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>514ab08d-0141-45b3-8eca-4755e1ded8ee</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Metrodata'</defaultValue>
+      <description></description>
+      <id>514ab08d-0141-45b3-8eca-4755e1ded8ee</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+{
+  "keywordFileContentHash": "AFC65F306C122826DB662C6104DE87CB",
+  "keywordClasses": [
+    {
+      "name": "KeywordBaru",
+      "keywordMethods": [
+        {
+          "name": "hallo",
+          "parameters": [],
+          "javadoc": "/**\n\t * Refresh browser\n\t */"
+        },
+        {
+          "name": "hallouser",
+          "parameters": [
+            {
+              "name": "user",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
